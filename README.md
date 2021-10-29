@@ -12,7 +12,7 @@ Este repositório contem o Projeto Lista de Tarefas que reúne o aprendizado des
 
   - Manipular o DOM.
   - Manipular o Javascript (funções, loop e eventos).
-  - 
+
 #### Requisitos obrigatórios:
 
   - Adicone à sua lista o título "Minha Lista de Tarefas" em uma tag.
