@@ -1,0 +1,19 @@
+.selected {
+    background-color: rgb(128, 128, 128);
+}
+.completed {
+    text-decoration:line-through solid rgb(0, 0, 0);
+}
+.completed2 {
+    text-decoration:line-through solid rgb(255, 255, 255);
+}
+body {
+    background-color: royalblue;
+}
+div {
+    margin: auto 0;
+    text-align: center;
+    background-color: seagreen;
+    padding: 80px;
+    display: inline-block;
+}
